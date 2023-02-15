@@ -1,0 +1,5 @@
+Na letra a deve-se ter o incremento na variável x dentro do laço while
+
+Na letra b falta definir a classe
+
+Na letra c falta dircionar o main da classe
