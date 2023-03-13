@@ -1,0 +1,1 @@
+Por que na primeira opção é possível acessar cada contato pelo indice

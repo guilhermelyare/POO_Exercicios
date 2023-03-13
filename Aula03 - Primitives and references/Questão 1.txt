@@ -1,0 +1,5 @@
+determine whether each of these files will compile and run without error. If they won’t, how would you fix them?
+
+A letra a deve rodqar normalmente
+
+A letra b não vai funcionar por que o laço se repete um número de vezes maior que a quantidade de objetos Hobbits ccriados, e tamebm por que a variavel z é incrementada no inicio do laço
