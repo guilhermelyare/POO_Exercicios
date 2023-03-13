@@ -1,0 +1,5 @@
+determine whether each of these files will compile. If they won’t compile,how would you fix them?
+
+Na letra a não foi criado o objeto do tipo StreamingSong na classe StreamingSongTesDrive com o nome song, então os metodos que foram acionados não vão funcionar.
+
+A letra B deve rodar normalmente, apesar dele não ter setado um valor para o episodeNumber, os metodos devem rodar.
