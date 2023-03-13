@@ -1,0 +1,4 @@
+determine whether each of these files will compile and run without error. If they won’t, how would you fix them?
+
+As duas devem rodar corretamente
+
